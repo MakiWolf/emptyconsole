@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotdeveloptest", "dotdeveloptest\dotdeveloptest.csproj", "{0F4B8664-5FE4-4E94-82E3-B7395AD8175D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4B8664-5FE4-4E94-82E3-B7395AD8175D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0F4B8664-5FE4-4E94-82E3-B7395AD8175D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0F4B8664-5FE4-4E94-82E3-B7395AD8175D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0F4B8664-5FE4-4E94-82E3-B7395AD8175D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
